@@ -1,8 +1,52 @@
 body {
-    background: #e6ccb2;
+    background: #000000;
 }
-h1{ color: #7f5539;
+h1{ color: #ffffff;
     text-align: left;
     font-weight: 700;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:'Times New Roman', Times, serif;
+    font-size:medium
   }
+h2{
+color: #ffffff;
+text-align: left;
+font-weight: 900;
+font-family: 'Times New Roman', Times, serif;
+font-size: xx-large;
+}
+
+h3{ 
+color: #ffffff;
+text-align: left;
+font-family:'Times New Roman', Times, serif;
+font-size:medium
+}
+
+h4{
+color: #ffffff;
+text-align: left;
+font-weight: 400;
+font-family:'Times New Roman', Times, serif;
+font-size:x-small;
+font-style:italic
+}
+
+p{
+color: #ffffff;
+text-align: left;
+font-weight: 400;
+font-family:'Times New Roman', Times, serif;
+font-size:medium;
+}
+
+button{
+    background-color: #ffffff;
+    color: #000000;
+    border-radius: 80px;
+    
+}
+
+button:hover{
+    background-color: #ffcad4;
+}
+
