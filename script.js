@@ -16,6 +16,10 @@ button2.addEventListener('mouseover', (event) => {
 
 
 
+const myName = document.querySelector('#h1');
+myName.addEventListener('scroll', (event)=>{
+
+});
 
 /*document.addEventListener('scroll', (event) => {});*/
 
