@@ -14,7 +14,11 @@ button2.addEventListener('mouseover', (event) => {
 
 });
 
+const button3 = document.querySelector('#github');
 
+button3.addEventListener('mouseover', (event) => {    
+
+});
 
 const myName = document.querySelector('#h1');
 myName.addEventListener('scroll', (event)=>{
