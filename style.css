@@ -39,14 +39,11 @@ font-family:'Times New Roman', Times, serif;
 font-size:medium;
 }
 
-button{
-    background-color: #ffffff;
-    color: #000000;
-    border-radius: 80px;
-    
+#instagram{
+color: #ffcad4;
 }
-
-button:hover{
-    background-color: #ffcad4;
+    
+#pinterest{
+color: #ffcad4;
 }
 
